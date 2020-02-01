@@ -5,6 +5,7 @@ This repo contains code for determining the character in a P300 Speller. This is
 https://www.frontiersin.org/articles/10.3389/fnhum.2013.00732/full
 
 Data Source: http://bnci-horizon-2020.eu/database/data-sets
+
 Data Description: https://lampx.tugraz.at/~bci/database/008-2014/description.pdf
 
 This work was done under the SRIP IIT Gandhinagar, 2018
